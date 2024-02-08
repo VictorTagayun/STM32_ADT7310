@@ -1,10 +1,4 @@
-Personal Note:
+# Interfacing [ADT7310](https://www.analog.com/media/en/technical-documentation/data-sheets/adt7310.pdf) to STM32 via SPI
 
-The human brain is limitless and we, humans, have not explored its true potential like the Jedis.
-Memory recall is quite tricky at times when you needed the information at that moment.
-I have placed the projects/repository here on Github for that sole purpose.
-Some may be fully documented some are partial and some are not.
+[ADT7310](https://www.analog.com/media/en/technical-documentation/data-sheets/adt7310.pdf) is Analog Devices' Digital SPI Temperature Sensor with ±0.5°C accuracy and 16-bit ADC. Here we interface and program the ADT7310 but encountered hiccups along the way. In the end it was solved and hopefully it can help others too. So follow me along the way in interfacing to ADT7310.
 
-We also search the internet for some solutions and answers to our problems.
-Here maybe some of that.
-I hope you find some useful and apply it to your projects, but please, read the disclaimer first.
