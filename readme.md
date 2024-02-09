@@ -9,7 +9,7 @@
 ## Project files  
 
 * NUCLEO-G474RE_ADT7310_V1  = Initial troubleshooting and building up code and basic reading of registers
-* NUCLEO-G474RE_ADT7310_V2  = Writing to registers, reading 13-bit and 16-bit Temperature. Streamlined code and avoid use of global variablea.
+* NUCLEO-G474RE_ADT7310_V2  = Writing to registers, reading 13-bit and 16-bit Temperature. Streamlined code and avoid use of global variablea inside functions.
 
 ### My first encounter, reading ***Status*** register
 
