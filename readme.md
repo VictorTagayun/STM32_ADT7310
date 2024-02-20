@@ -80,7 +80,7 @@ Here is the serial data when writing to the registers and changing from 13bit an
 ![V2serial](https://github.com/VictorTagayun/STM32_ADT7310/blob/main/photos/Serial03.png)
 
 
-## Waveforms
+## Waveforms (Default Values after reset)
 
 ### Reset Command, 32bits of 1s
 
