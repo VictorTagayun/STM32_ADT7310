@@ -65,6 +65,58 @@ Here is the serial data when writing to the registers and changing from 13bit an
 
 ![V2serial](https://github.com/VictorTagayun/STM32_ADT7310/blob/main/photos/Serial03.png)
 
+## Waveforms
+
+### Reset Command, 32bits of 1s
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/DS1Z_QuickPrint200.jpg)
+
+
+### Reset Command, 32bits of 1s (Zoomed in at the beginning part)
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/DS1Z_QuickPrint201.jpg)
+
+
+### Read Status
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/DS1Z_QuickPrint202.jpg)
+
+
+### Read Config
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/DS1Z_QuickPrint203.jpg)
+
+
+### Read Temperature value (13-bit initial)
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/DS1Z_QuickPrint204.jpg)
+
+
+### Read ID
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/DS1Z_QuickPrint205.jpg)
+
+
+### Read T<sub>CRIT</sub> setpoint
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/DS1Z_QuickPrint206.jpg)
+
+
+### Read T<sub>HYST</sub> setpoint
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/DS1Z_QuickPrint207.jpg)
+
+
+### Read T<sub>HIGH</sub> setpoint
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/DS1Z_QuickPrint208.jpg)
+
+
+### Read T<sub>LOW</sub> setpoint
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/DS1Z_QuickPrint209.jpg)
+
+
 ## ***........... still a work in progress  ...........***
 
 
