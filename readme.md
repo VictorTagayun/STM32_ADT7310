@@ -6,10 +6,24 @@
 
 ![Datasheet](https://github.com/VictorTagayun/STM32_ADT7310/blob/main/photos/datasheet00.png)
 
+
 ## Project files  
 
 * NUCLEO-G474RE_ADT7310_V1  = Initial troubleshooting and building up code and basic reading of registers
 * NUCLEO-G474RE_ADT7310_V2  = Writing to registers, reading 13-bit and 16-bit Temperature. Streamlined code and minimize use of global variables inside functions.
+
+
+## My Setup
+
+### The eval board
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/20240220_192602.jpg)
+
+
+### The wiring and connection between MCU and the device
+
+![](https://raw.githubusercontent.com/VictorTagayun/STM32_ADT7310/main/photos/20240220_193615.jpg)
+
 
 ### V1, My first encounter, reading ***Status*** register
 
